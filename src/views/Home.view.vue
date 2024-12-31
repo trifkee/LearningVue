@@ -1,7 +1,7 @@
 <script setup>
-import Hero from "@/components/Hero.vue";
-import HomeCards from "@/components/HomeCards.vue";
-import JobListings from "@/components/JobListings.vue";
+import Hero from "@/components/atoms/Hero.atom.vue";
+import HomeCards from "@/components/organism/HomeCards.organism.vue";
+import JobListings from "@/components/organism/JobListings.organism.vue";
 </script>
 
 <template>

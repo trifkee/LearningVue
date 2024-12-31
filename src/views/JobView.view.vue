@@ -3,7 +3,7 @@ import axios from "axios";
 import { reactive, onMounted } from "vue";
 import { useRoute, RouterLink, useRouter } from "vue-router";
 
-import BackButtonAtom from "@/components/BackButton.atom.vue";
+import BackButtonAtom from "@/components/atoms/BackButton.atom.vue";
 
 import PulseLoader from "vue-spinner/src/PulseLoader.vue";
 import { useToast } from "vue-toastification";

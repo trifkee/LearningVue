@@ -5,7 +5,7 @@ import axios from "axios";
 
 import PulseLoader from "vue-spinner/src/PulseLoader.vue";
 
-import JobListing from "@/components/JobListing.vue";
+import JobListing from "@/components/atoms/JobListing.atom.vue";
 
 defineProps({
   limit: Number,

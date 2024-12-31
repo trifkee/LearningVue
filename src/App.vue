@@ -1,5 +1,5 @@
 <script setup>
-import Navbar from "@/components/Navbar.vue";
+import Navbar from "@/components/organism/Navbar.organism.vue";
 import { RouterView } from "vue-router";
 
 // Prime Icons
